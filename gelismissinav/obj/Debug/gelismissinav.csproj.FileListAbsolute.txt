@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\gelismissinav\gelismissinav\bin\Debug\gelismissinav.exe.config
+C:\Users\user\source\repos\gelismissinav\gelismissinav\bin\Debug\gelismissinav.exe
+C:\Users\user\source\repos\gelismissinav\gelismissinav\bin\Debug\gelismissinav.pdb
+C:\Users\user\source\repos\gelismissinav\gelismissinav\obj\Debug\gelismissinav.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\gelismissinav\gelismissinav\obj\Debug\gelismissinav.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\gelismissinav\gelismissinav\obj\Debug\gelismissinav.exe
+C:\Users\user\source\repos\gelismissinav\gelismissinav\obj\Debug\gelismissinav.pdb
