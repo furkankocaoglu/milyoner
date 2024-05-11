@@ -12,8 +12,9 @@ namespace gelismissinav
     {
         static void Main(string[] args)
         {
+            //furkan kocaoğlu
             ArrayList sorular = new ArrayList()
-        {
+        {       
             new soru("Hangi renk sembolik olarak huzur anlamına gelir?", new string[]{"A) Kırmızı", "B) Mavi", "C) Yeşil", "D) Sarı"}, 'C'),
             new soru("Hangisi Türkiye'nin başkentidir?", new string[]{"A) Ankara", "B) İstanbul", "C) İzmir", "D) Bursa"}, 'A'),
             new soru("Hangi gezegen güneş sisteminde üçüncü sıradadır?", new string[]{"A) Mars", "B) Jüpiter", "C) Dünya", "D) Uranüs"}, 'C'),
